@@ -15,7 +15,7 @@ Este proyecto es un ejemplo básico de una API RESTful construida con Express.js
 
 ### Clonar el repositorio:
 ```bash
-git clone [https://github.com/univalle-postgrado/univalle-postgrado-scz-ejemplo02](https://github.com/univalle-postgrado/univalle-postgrado-scz-ejemplo02)
+git clone https://github.com/univalle-postgrado/univalle-postgrado-scz-ejemplo02
 ```
 
 ### Instalación de dependencias
